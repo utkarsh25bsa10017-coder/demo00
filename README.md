@@ -1,3 +1,3 @@
 # demo00
 i am learning github
-authour-utkarsh
+Author-utkarsh
